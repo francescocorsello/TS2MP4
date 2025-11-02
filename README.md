@@ -112,12 +112,6 @@ Temporary files are deleted automatically after conversion.
 
 ---
 
-## 📜 License
-
-Include your preferred license (e.g. MIT) and mention FFmpeg’s LGPL/GPL terms if redistributing the binary.
-
----
-
 ## 💡 Development Mode
 
 Run directly without building:
