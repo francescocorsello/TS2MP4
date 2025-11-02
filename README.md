@@ -19,11 +19,7 @@ The app runs locally at `http://127.0.0.1:8000` and features:
 
 ## 🖼️ Preview
 
-*(Place images in `docs/img/` and update paths)*
-
-| Step                | Screenshot                         |
-| ------------------- | ---------------------------------- |
-| TS2MP$      | ![home](TS2MP4.png)         |
+ ![home](TS2MP4.png)        
 
 ---
 
